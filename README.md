@@ -1,4 +1,4 @@
-#That one time i built an objective-c app
+## That one time i built an objective-c app
 
 Going over old project folders on your personal machine is always a bit of a trip to memory lane while also a soothing affirmation that you really do grow over the years if you embrace craftsmanship. Even though the projects were a great display of your skill level at that time, with the lens of today you will see things differently. Though there is still one side project i did i am secretly really proud of even though the relevancy to my current work is nearly zilch; that one time i built an objective-c app. 😎
 
